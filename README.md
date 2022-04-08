@@ -8,5 +8,12 @@ BMI is a measurement of a person's leanness or corpulence based on their height 
 
 This is the World Health Organization's (WHO) recommended body weight based on BMI values for adults. It is used for both men and women, age 18 or older.
 
-<img src="https://user-images.githubusercontent.com/81027613/161534312-55f62b42-b9db-4cdc-b3d8-cb2ad09cd197.png" width="280">,
+<img src="https://user-images.githubusercontent.com/81027613/161534312-55f62b42-b9db-4cdc-b3d8-cb2ad09cd197.png" width="300">,
+
+Also project contain some screenshots and video review.
+
+
+
+
+
 
